@@ -1,0 +1,9 @@
+{
+  "name": "MPSC PYQ Free",
+  "short_name": "MPSC PYQ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f5fa",
+  "theme_color": "#143c75",
+  "description": "Free MPSC previous-year question practice"
+}
